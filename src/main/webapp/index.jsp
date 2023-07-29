@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Hello World datta1!</title>
+<title>Hello World datta2!</title>
 </head>
 <body>
 	<h1>Hello Linux World!!</h1>
